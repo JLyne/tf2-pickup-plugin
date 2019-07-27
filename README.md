@@ -1,6 +1,6 @@
 # tf2-pickup-plugin
 
-[Originally showcased by RTGame](https://www.youtube.com/watch?v=6SHx4wfeucc)
+[As showcased by RTGame](https://www.youtube.com/watch?v=6SHx4wfeucc)
 
 Sourcemod plugin that allows you to pickup pretty much anything ingame, using `logic_measure_movement`s.
 
