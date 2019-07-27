@@ -17,7 +17,7 @@ Sourcemod plugin that allows you to pickup pretty much anything ingame, using `l
 * `/put` - Place the last entity you picked up where you are aiming
 * `/dropall` - Drop everything you picked up
 
-##Notes
+## Notes
 * Only works with entities naturally, so most map geometry is out. Anything dynamic should be cool though, as long as you can aim at it.
 * You can pick things up at any time, as long as you can see them. This includes while dead and spectating.
 * While spectating, anything you picked up will appear on the spectated player
