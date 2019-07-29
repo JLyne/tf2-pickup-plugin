@@ -24,3 +24,7 @@ Sourcemod plugin that allows you to pickup pretty much anything ingame, using `l
 * Picking up trains is not advised if you want to continue being alive
 * If you pick up a player, they will repeatedly take fall damage
 * If you pick up a teleporter exit, anyone using it will inherit the teleporters angles, this affects their controls too
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
